@@ -25,6 +25,12 @@ const App = () => (
                 <Route path="/departments" element={<Departments />} />
                 <Route path="/events" element={<Events />} />
             </Routes>
+            <footer>
+            <div className="footer-content">
+                <p>© 2024 Saveetha Engineering College. All rights reserved.</p>
+            </div>
+        </footer>
+
         </div>
     </Router>
 );

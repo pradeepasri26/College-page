@@ -54,6 +54,7 @@ nav ul li a:hover {
 .container {
   padding: 2px; /* Adjust as needed */
   padding-bottom: 60px; /* Add space for footer */
+  font-size: medium;
 }
 
 .home-container {
@@ -188,4 +189,7 @@ th {
 .topic{
   width: 10px;
   height: 20px;
+}
+*{
+  font-size: 16px;
 }

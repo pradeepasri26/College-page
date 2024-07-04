@@ -14,19 +14,19 @@ const Departments = () => (
             </thead>
             <tbody>
                 <tr>
+                    <td>IT</td>
+                    <td>62</td>
+                </tr>
+                <tr>
                     <td>AI/DS</td>
                     <td>180</td>
                 </tr>
                 <tr>
-                    <td>AI/ML</td>
+                    <td>AIML</td>
                     <td>200</td>
                 </tr>
                 <tr>
                     <td>CSE</td>
-                    <td>200</td>
-                </tr>
-                <tr>
-                    <td>IT</td>
                     <td>250</td>
                 </tr>
                 <tr>
@@ -38,7 +38,7 @@ const Departments = () => (
                     <td>120</td>
                 </tr>
                 <tr>
-                    <td>Mechanical</td>
+                    <td>MECH</td>
                     <td>100</td>
                 </tr>
                 {/* Add more departments as needed */}
